@@ -46,6 +46,8 @@ to calculate the present-day value of financial metrics adjusted by inflation.
 
 ## Visualizations
 
+![image](https://github.com/letyrobueno/paradime-challenge/assets/3430584/e1f22c2b-3c86-47e7-84a7-2bbbb0709cca)
+
 ### vizualization 1
 - #### Visualizations title
 - #### Intro sentence to vizualization
