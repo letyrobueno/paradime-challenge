@@ -19,7 +19,7 @@
 
 ## Introduction
 Explore my project for the _dbt™ data modeling challenge - Movie Edition_, Hosted by [Paradime](https://www.paradime.io/)! 
-This project dives into the analysis and visualization of Movie and TV data!
+This project dives into the analysis and visualization of Movie data!
 
 ## Data Sources and Data Lineage
 
