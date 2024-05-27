@@ -20,24 +20,20 @@ This project dives into the analysis and visualization of Movie and TV data!
 
 ## Data Sources and Data Lineage
 
-
-
-
-
-
 ### Data Sources
-My analysis leverages two key movies datasets provided by Paradime:
+My analysis leverages two key movie datasets provided by Paradime:
 - OMDB_MOVIES.
 - TMDB_MOVIES.
 
 Additional datasets:
-- [IMDB Movies]{https://www.imdb.com/interfaces/}: to provide people who worked in the movies and their role, and ratings.
-- [Academy Awards]{https://github.com/DLu/oscar_data}: to provide detailed information about academy awards.
-- [U.S. Bureau of Labor's Consumer Price Index for All Urban Consumers (CPI-U)]{https://data.bls.gov/timeseries/CUUR0000SA0?years_option=all_years}: 
+- [IMDB Movies](https://www.imdb.com/interfaces/): to provide people who worked in the movies and their role, and ratings.
+- [Academy Awards](https://github.com/DLu/oscar_data): to provide detailed information about academy awards.
+- [U.S. Bureau of Labor's Consumer Price Index for All Urban Consumers (CPI-U)](https://data.bls.gov/timeseries/CUUR0000SA0?years_option=all_years): 
 to calculate the present-day value of financial metrics adjusted by inflation.
 
 ### Data Lineage
-- **CHANGE:** Copy and paste your data lineage image here. Watch this [YouTube Tutorial](https://youtu.be/wQtIn-tnnbg?feature=shared&t=135) to learn how.
+
+![image](https://github.com/letyrobueno/paradime-challenge/assets/3430584/5bf521b2-214f-4da8-9db8-9939e418b9c3)
 
 
 
