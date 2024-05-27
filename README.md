@@ -46,25 +46,50 @@ to calculate the present-day value of financial metrics adjusted by inflation.
 
 ## Visualizations
 
-![image](https://github.com/letyrobueno/paradime-challenge/assets/3430584/e1f22c2b-3c86-47e7-84a7-2bbbb0709cca)
+![image](https://github.com/letyrobueno/paradime-challenge/assets/3430584/f78b22a2-b0a0-48c0-aaea-b560f8fe7730)
 
 ### vizualization 1
-- #### Visualizations title
-- #### Intro sentence to vizualization
-- #### Image of vizualization
-- #### Insights
+
+![image](https://github.com/letyrobueno/paradime-challenge/assets/3430584/5205ed96-53f1-4904-aec4-33cf867c4cfa)
+
 
 ### vizualization 2
-- #### Visualizations title
-- #### Intro sentence to vizualization
-- #### Image of vizualization
-- #### Insights
+
+![image](https://github.com/letyrobueno/paradime-challenge/assets/3430584/c1da6d8f-9ccb-4ea9-9e2b-8bf38ff34a3d)
+
 
 ### vizualization 3
-- #### Visualizations title
-- #### Intro sentence to vizualization
-- #### Image of vizualization
-- #### Insights
+
+![image](https://github.com/letyrobueno/paradime-challenge/assets/3430584/93f9f9f3-b4f4-4401-abc1-92930abb22b0)
+
+![image](https://github.com/letyrobueno/paradime-challenge/assets/3430584/9d7ccfb1-8e34-4f03-bd13-dfcd081eddb7)
+
+### vizualization 4
+
+![image](https://github.com/letyrobueno/paradime-challenge/assets/3430584/1cfc9710-9b42-413b-bb36-64f29114d5ef)
+
+![image](https://github.com/letyrobueno/paradime-challenge/assets/3430584/fe0d1d1d-ecca-4fb3-aef2-ffa049b76812)
+
+### viz 5
+
+![image](https://github.com/letyrobueno/paradime-challenge/assets/3430584/c30c2e53-7a77-479a-a677-0e245ef138ba)
+
+![image](https://github.com/letyrobueno/paradime-challenge/assets/3430584/706b5ac6-1926-4c33-8525-520711ab02fd)
+
+![image](https://github.com/letyrobueno/paradime-challenge/assets/3430584/38e28dec-ae66-4ae2-829e-ab35fd631558)
+
+### viz 6
+
+![image](https://github.com/letyrobueno/paradime-challenge/assets/3430584/0d1d58e5-bdcb-4e8a-838e-206b25f2e0b6)
+
+### viz 7
+
+![image](https://github.com/letyrobueno/paradime-challenge/assets/3430584/61491c69-5400-49d3-868f-011e634d366d)
+
+![image](https://github.com/letyrobueno/paradime-challenge/assets/3430584/c8e86b6d-96a8-4112-8d35-e298eb236d55)
+
 
 ## Conclusions
-Share a clear and concise conclusion of your findings!
+
+![image](https://github.com/letyrobueno/paradime-challenge/assets/3430584/3ea4c320-c4bc-4848-bccb-81a3cd584c5f)
+
